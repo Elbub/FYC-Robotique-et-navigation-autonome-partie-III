@@ -1,0 +1,2074 @@
+{
+    "0": {
+        "line": "A",
+        "station_name": "Boissy-Saint-L\u00e9ger"
+    },
+    "1": {
+        "line": "A",
+        "station_name": "Sucy - Bonneuil"
+    },
+    "2": {
+        "line": "A",
+        "station_name": "La Varenne - Chennevi\u00e8res"
+    },
+    "3": {
+        "line": "A",
+        "station_name": "Champigny"
+    },
+    "4": {
+        "line": "A",
+        "station_name": "Le Parc de Saint-Maur"
+    },
+    "5": {
+        "line": "A",
+        "station_name": "Saint-Maur - Cr\u00e9teil"
+    },
+    "6": {
+        "line": "A",
+        "station_name": "Joinville-le-Pont"
+    },
+    "7": {
+        "line": "A",
+        "station_name": "Nogent-sur-Marne"
+    },
+    "8": {
+        "line": "A",
+        "station_name": "Fontenay-sous-Bois"
+    },
+    "9": {
+        "line": "A",
+        "station_name": "Vincennes"
+    },
+    "10": {
+        "line": "A",
+        "station_name": "Nation"
+    },
+    "11": {
+        "line": "A",
+        "station_name": "Gare de Lyon"
+    },
+    "12": {
+        "line": "A",
+        "station_name": "Ch\u00e2telet - Les Halles"
+    },
+    "13": {
+        "line": "A",
+        "station_name": "Auber"
+    },
+    "14": {
+        "line": "A",
+        "station_name": "Charles de Gaulle - \u00c9toile"
+    },
+    "15": {
+        "line": "A",
+        "station_name": "La Grande Arche de la D\u00e9fense"
+    },
+    "16": {
+        "line": "A",
+        "station_name": "Nanterre-Pr\u00e9fecture"
+    },
+    "17": {
+        "line": "A",
+        "station_name": "Nanterre-Universit\u00e9"
+    },
+    "18": {
+        "line": "A",
+        "station_name": "Nanterre-Ville"
+    },
+    "19": {
+        "line": "A",
+        "station_name": "Rueil-Malmaison"
+    },
+    "20": {
+        "line": "A",
+        "station_name": "Chatou - Croissy"
+    },
+    "21": {
+        "line": "A",
+        "station_name": "Le V\u00e9sinet - Centre"
+    },
+    "22": {
+        "line": "A",
+        "station_name": "Le V\u00e9sinet - Le Pecq"
+    },
+    "23": {
+        "line": "A",
+        "station_name": "Saint-Germain-en-Laye"
+    },
+    "24": {
+        "line": "A",
+        "station_name": "Marne-la-Vall\u00e9e - Chessy"
+    },
+    "25": {
+        "line": "A",
+        "station_name": "Val d'Europe"
+    },
+    "26": {
+        "line": "A",
+        "station_name": "Bussy-Saint-Georges"
+    },
+    "27": {
+        "line": "A",
+        "station_name": "Torcy"
+    },
+    "28": {
+        "line": "A",
+        "station_name": "Lognes"
+    },
+    "29": {
+        "line": "A",
+        "station_name": "Noisiel"
+    },
+    "30": {
+        "line": "A",
+        "station_name": "Noisy - Champs"
+    },
+    "31": {
+        "line": "A",
+        "station_name": "Noisy-le-Grand - Mont d'Est"
+    },
+    "32": {
+        "line": "A",
+        "station_name": "Bry-sur-Marne"
+    },
+    "33": {
+        "line": "A",
+        "station_name": "Neuilly-Plaisance"
+    },
+    "34": {
+        "line": "A",
+        "station_name": "Val de Fontenay"
+    },
+    "35": {
+        "line": "A",
+        "station_name": "Houilles - Carri\u00e8res-sur-Seine"
+    },
+    "36": {
+        "line": "A",
+        "station_name": "Sartrouville"
+    },
+    "37": {
+        "line": "A",
+        "station_name": "Maisons-Laffitte"
+    },
+    "38": {
+        "line": "A",
+        "station_name": "Ach\u00e8res Ville"
+    },
+    "39": {
+        "line": "A",
+        "station_name": "Conflans-Fin-d'Oise"
+    },
+    "40": {
+        "line": "A",
+        "station_name": "Neuville-Universit\u00e9"
+    },
+    "41": {
+        "line": "A",
+        "station_name": "Cergy-Pr\u00e9fecture"
+    },
+    "42": {
+        "line": "A",
+        "station_name": "Cergy-Saint-Christophe"
+    },
+    "43": {
+        "line": "A",
+        "station_name": "Cergy le Haut"
+    },
+    "44": {
+        "line": "A",
+        "station_name": "Ach\u00e8res Grand Cormier"
+    },
+    "45": {
+        "line": "A",
+        "station_name": "Poissy"
+    },
+    "46": {
+        "line": "H",
+        "station_name": "Gare du Nord"
+    },
+    "47": {
+        "line": "H",
+        "station_name": "Saint-Denis"
+    },
+    "48": {
+        "line": "H",
+        "station_name": "\u00c9pinay-Villetaneuse"
+    },
+    "49": {
+        "line": "H",
+        "station_name": "La Barre - Ormesson"
+    },
+    "50": {
+        "line": "H",
+        "station_name": "Enghien-les-Bains"
+    },
+    "51": {
+        "line": "H",
+        "station_name": "Champ de Courses d'Enghien"
+    },
+    "52": {
+        "line": "H",
+        "station_name": "Ermont - Eaubonne"
+    },
+    "53": {
+        "line": "H",
+        "station_name": "Cernay"
+    },
+    "54": {
+        "line": "H",
+        "station_name": "Franconville - Le Plessis-Bouchard"
+    },
+    "55": {
+        "line": "H",
+        "station_name": "Montigny - Beauchamp"
+    },
+    "56": {
+        "line": "H",
+        "station_name": "Pierrelaye"
+    },
+    "57": {
+        "line": "H",
+        "station_name": "Saint-Ouen-l'Aum\u00f4ne-Liesse"
+    },
+    "58": {
+        "line": "H",
+        "station_name": "Saint-Ouen-l'Aum\u00f4ne"
+    },
+    "59": {
+        "line": "H",
+        "station_name": "Pontoise"
+    },
+    "60": {
+        "line": "H",
+        "station_name": "Deuil - Montmagny"
+    },
+    "61": {
+        "line": "H",
+        "station_name": "Groslay"
+    },
+    "62": {
+        "line": "H",
+        "station_name": "Sarcelles - Saint-Brice"
+    },
+    "63": {
+        "line": "H",
+        "station_name": "Ermont-Halte"
+    },
+    "64": {
+        "line": "H",
+        "station_name": "Gros Noyer - Saint-Prix"
+    },
+    "65": {
+        "line": "H",
+        "station_name": "Saint-Leu-la-For\u00eat"
+    },
+    "66": {
+        "line": "H",
+        "station_name": "Vaucelles"
+    },
+    "67": {
+        "line": "H",
+        "station_name": "Taverny"
+    },
+    "68": {
+        "line": "H",
+        "station_name": "Bessancourt"
+    },
+    "69": {
+        "line": "H",
+        "station_name": "Fr\u00e9pillon"
+    },
+    "70": {
+        "line": "H",
+        "station_name": "M\u00e9ry-sur-Oise"
+    },
+    "71": {
+        "line": "H",
+        "station_name": "M\u00e9riel"
+    },
+    "72": {
+        "line": "H",
+        "station_name": "Valmondois"
+    },
+    "73": {
+        "line": "H",
+        "station_name": "L'Isle-Adam - Parmain"
+    },
+    "74": {
+        "line": "H",
+        "station_name": "Champagne-sur-Oise"
+    },
+    "75": {
+        "line": "H",
+        "station_name": "Persan-Beaumont"
+    },
+    "76": {
+        "line": "H",
+        "station_name": "\u00c9couen - \u00c9zanville"
+    },
+    "77": {
+        "line": "H",
+        "station_name": "Domont"
+    },
+    "78": {
+        "line": "H",
+        "station_name": "Bouff\u00e9mont - Moisselles"
+    },
+    "79": {
+        "line": "H",
+        "station_name": "Montsoult - Maffliers"
+    },
+    "80": {
+        "line": "H",
+        "station_name": "Villaines"
+    },
+    "81": {
+        "line": "H",
+        "station_name": "Belloy - Saint-Martin"
+    },
+    "82": {
+        "line": "H",
+        "station_name": "Viarmes"
+    },
+    "83": {
+        "line": "H",
+        "station_name": "Seugy"
+    },
+    "84": {
+        "line": "H",
+        "station_name": "Luzarches"
+    },
+    "85": {
+        "line": "H",
+        "station_name": "Presles-Courcelles"
+    },
+    "86": {
+        "line": "H",
+        "station_name": "Nointel - Mours"
+    },
+    "87": {
+        "line": "H",
+        "station_name": "Auvers-sur-Oise"
+    },
+    "88": {
+        "line": "H",
+        "station_name": "\u00c9pluches"
+    },
+    "89": {
+        "line": "H",
+        "station_name": "Pont-Petit"
+    },
+    "90": {
+        "line": "H",
+        "station_name": "Chaponval"
+    },
+    "91": {
+        "line": "H",
+        "station_name": "Bruy\u00e8res-sur-Oise"
+    },
+    "92": {
+        "line": "H",
+        "station_name": "Boran-sur-Oise"
+    },
+    "93": {
+        "line": "H",
+        "station_name": "Pr\u00e9cy-sur-Oise"
+    },
+    "94": {
+        "line": "H",
+        "station_name": "Saint-Leu-d'Esserent"
+    },
+    "95": {
+        "line": "H",
+        "station_name": "Creil"
+    },
+    "96": {
+        "line": "B",
+        "station_name": "Robinson"
+    },
+    "97": {
+        "line": "B",
+        "station_name": "Fontenay-aux-Roses"
+    },
+    "98": {
+        "line": "B",
+        "station_name": "Sceaux"
+    },
+    "99": {
+        "line": "B",
+        "station_name": "Bourg-la-Reine"
+    },
+    "100": {
+        "line": "B",
+        "station_name": "Bagneux"
+    },
+    "101": {
+        "line": "B",
+        "station_name": "Arcueil - Cachan"
+    },
+    "102": {
+        "line": "B",
+        "station_name": "Laplace"
+    },
+    "103": {
+        "line": "B",
+        "station_name": "Gentilly"
+    },
+    "104": {
+        "line": "B",
+        "station_name": "Cit\u00e9 Universitaire"
+    },
+    "105": {
+        "line": "B",
+        "station_name": "Denfert-Rochereau"
+    },
+    "106": {
+        "line": "B",
+        "station_name": "Port Royal"
+    },
+    "107": {
+        "line": "B",
+        "station_name": "Luxembourg"
+    },
+    "108": {
+        "line": "B",
+        "station_name": "Saint-Michel"
+    },
+    "109": {
+        "line": "B",
+        "station_name": "Ch\u00e2telet - Les Halles"
+    },
+    "110": {
+        "line": "B",
+        "station_name": "Gare du Nord"
+    },
+    "111": {
+        "line": "B",
+        "station_name": "La Plaine - Stade de France"
+    },
+    "112": {
+        "line": "B",
+        "station_name": "La Courneuve - Aubervilliers"
+    },
+    "113": {
+        "line": "B",
+        "station_name": "Le Bourget"
+    },
+    "114": {
+        "line": "B",
+        "station_name": "Drancy"
+    },
+    "115": {
+        "line": "B",
+        "station_name": "Le Blanc-Mesnil"
+    },
+    "116": {
+        "line": "B",
+        "station_name": "Aulnay-sous-Bois"
+    },
+    "117": {
+        "line": "B",
+        "station_name": "Sevran - Livry"
+    },
+    "118": {
+        "line": "B",
+        "station_name": "Vert-Galant"
+    },
+    "119": {
+        "line": "B",
+        "station_name": "Villeparisis - Mitry-le-Neuf"
+    },
+    "120": {
+        "line": "B",
+        "station_name": "Mitry - Claye"
+    },
+    "121": {
+        "line": "B",
+        "station_name": "Massy - Palaiseau"
+    },
+    "122": {
+        "line": "B",
+        "station_name": "Massy - Verri\u00e8res"
+    },
+    "123": {
+        "line": "B",
+        "station_name": "Les Baconnets"
+    },
+    "124": {
+        "line": "B",
+        "station_name": "Fontaine Michalon"
+    },
+    "125": {
+        "line": "B",
+        "station_name": "Antony"
+    },
+    "126": {
+        "line": "B",
+        "station_name": "La Croix de Berny"
+    },
+    "127": {
+        "line": "B",
+        "station_name": "Parc de Sceaux"
+    },
+    "128": {
+        "line": "B",
+        "station_name": "Parc des expositions"
+    },
+    "129": {
+        "line": "B",
+        "station_name": "A\u00e9roport Charles de Gaulle 1"
+    },
+    "130": {
+        "line": "B",
+        "station_name": "A\u00e9roport Charles de Gaulle 2 - TGV"
+    },
+    "131": {
+        "line": "B",
+        "station_name": "Saint-R\u00e9my-l\u00e8s-Chevreuse"
+    },
+    "132": {
+        "line": "B",
+        "station_name": "Courcelle-sur-Yvette"
+    },
+    "133": {
+        "line": "B",
+        "station_name": "Gif-sur-Yvette"
+    },
+    "134": {
+        "line": "B",
+        "station_name": "La Hacquini\u00e8re"
+    },
+    "135": {
+        "line": "B",
+        "station_name": "Bures-sur-Yvette"
+    },
+    "136": {
+        "line": "B",
+        "station_name": "Orsay-Ville"
+    },
+    "137": {
+        "line": "B",
+        "station_name": "Le Guichet"
+    },
+    "138": {
+        "line": "B",
+        "station_name": "Loz\u00e8re"
+    },
+    "139": {
+        "line": "B",
+        "station_name": "Palaiseau - Villebon-sur-Yvette"
+    },
+    "140": {
+        "line": "B",
+        "station_name": "Palaiseau"
+    },
+    "141": {
+        "line": "B",
+        "station_name": "Sevran - Beaudottes"
+    },
+    "142": {
+        "line": "B",
+        "station_name": "Villepinte"
+    },
+    "143": {
+        "line": "B",
+        "station_name": "Gare du Nord"
+    },
+    "144": {
+        "line": "C",
+        "station_name": "Versailles-Ch\u00e2teau-Rive-Gauche"
+    },
+    "145": {
+        "line": "C",
+        "station_name": "Porchefontaine"
+    },
+    "146": {
+        "line": "C",
+        "station_name": "Viroflay-Rive-Gauche"
+    },
+    "147": {
+        "line": "C",
+        "station_name": "Chaville - V\u00e9lizy"
+    },
+    "148": {
+        "line": "C",
+        "station_name": "Meudon-Val-Fleury"
+    },
+    "149": {
+        "line": "C",
+        "station_name": "Issy"
+    },
+    "150": {
+        "line": "C",
+        "station_name": "Issy - Val de Seine"
+    },
+    "151": {
+        "line": "C",
+        "station_name": "Pont du Garigliano"
+    },
+    "152": {
+        "line": "C",
+        "station_name": "Javel"
+    },
+    "153": {
+        "line": "C",
+        "station_name": "Champ de Mars - Tour Eiffel"
+    },
+    "154": {
+        "line": "C",
+        "station_name": "Pont de l'Alma"
+    },
+    "155": {
+        "line": "C",
+        "station_name": "Invalides"
+    },
+    "156": {
+        "line": "C",
+        "station_name": "Massy - Palaiseau"
+    },
+    "157": {
+        "line": "C",
+        "station_name": "Igny"
+    },
+    "158": {
+        "line": "C",
+        "station_name": "Bi\u00e8vres"
+    },
+    "159": {
+        "line": "C",
+        "station_name": "Vauboyen"
+    },
+    "160": {
+        "line": "C",
+        "station_name": "Jouy-en-Josas"
+    },
+    "161": {
+        "line": "C",
+        "station_name": "Petit Jouy - Les Loges"
+    },
+    "162": {
+        "line": "C",
+        "station_name": "Versailles-Chantiers"
+    },
+    "163": {
+        "line": "C",
+        "station_name": "Gare d'Austerlitz"
+    },
+    "164": {
+        "line": "C",
+        "station_name": "Biblioth\u00e8que Fran\u00e7ois Mitterrand"
+    },
+    "165": {
+        "line": "C",
+        "station_name": "Juvisy"
+    },
+    "166": {
+        "line": "C",
+        "station_name": "Savigny-sur-Orge"
+    },
+    "167": {
+        "line": "C",
+        "station_name": "\u00c9pinay-sur-Orge"
+    },
+    "168": {
+        "line": "C",
+        "station_name": "Sainte-Genevi\u00e8ve des Bois"
+    },
+    "169": {
+        "line": "C",
+        "station_name": "Saint-Michel-sur-Orge"
+    },
+    "170": {
+        "line": "C",
+        "station_name": "Br\u00e9tigny"
+    },
+    "171": {
+        "line": "C",
+        "station_name": "La Norville - Saint-Germain-L\u00e8s-Arpajon"
+    },
+    "172": {
+        "line": "C",
+        "station_name": "Arpajon"
+    },
+    "173": {
+        "line": "C",
+        "station_name": "\u00c9gly"
+    },
+    "174": {
+        "line": "C",
+        "station_name": "Breuillet - Bruy\u00e8res-le-Ch\u00e2tel"
+    },
+    "175": {
+        "line": "C",
+        "station_name": "Breuillet-Village"
+    },
+    "176": {
+        "line": "C",
+        "station_name": "Saint-Ch\u00e9ron"
+    },
+    "177": {
+        "line": "C",
+        "station_name": "Sermaise"
+    },
+    "178": {
+        "line": "C",
+        "station_name": "Dourdan"
+    },
+    "179": {
+        "line": "C",
+        "station_name": "Saint-Quentin-en-Yvelines"
+    },
+    "180": {
+        "line": "C",
+        "station_name": "Saint-Cyr"
+    },
+    "181": {
+        "line": "C",
+        "station_name": "Mus\u00e9e d'Orsay"
+    },
+    "182": {
+        "line": "C",
+        "station_name": "Saint-Michel Notre-Dame"
+    },
+    "183": {
+        "line": "C",
+        "station_name": "Gare d'Austerlitz"
+    },
+    "184": {
+        "line": "C",
+        "station_name": "Marolles-en-Hurepoix"
+    },
+    "185": {
+        "line": "C",
+        "station_name": "Bouray"
+    },
+    "186": {
+        "line": "C",
+        "station_name": "Lardy"
+    },
+    "187": {
+        "line": "C",
+        "station_name": "Chamarande"
+    },
+    "188": {
+        "line": "C",
+        "station_name": "\u00c9tr\u00e9chy"
+    },
+    "189": {
+        "line": "C",
+        "station_name": "\u00c9tampes"
+    },
+    "190": {
+        "line": "C",
+        "station_name": "Saint-Martin-d'\u00c9tampes"
+    },
+    "191": {
+        "line": "C",
+        "station_name": "Les Ardoines"
+    },
+    "192": {
+        "line": "C",
+        "station_name": "Choisy-le-Roi"
+    },
+    "193": {
+        "line": "C",
+        "station_name": "Villeneuve-le-Roi"
+    },
+    "194": {
+        "line": "C",
+        "station_name": "Ablon"
+    },
+    "195": {
+        "line": "C",
+        "station_name": "Athis-Mons"
+    },
+    "196": {
+        "line": "C",
+        "station_name": "Pontoise"
+    },
+    "197": {
+        "line": "C",
+        "station_name": "Saint-Ouen-l'Aum\u00f4ne"
+    },
+    "198": {
+        "line": "C",
+        "station_name": "Saint-Ouen-l'Aum\u00f4ne-Liesse"
+    },
+    "199": {
+        "line": "C",
+        "station_name": "Pierrelaye"
+    },
+    "200": {
+        "line": "C",
+        "station_name": "Montigny - Beauchamp"
+    },
+    "201": {
+        "line": "C",
+        "station_name": "Franconville - Le Plessis-Bouchard"
+    },
+    "202": {
+        "line": "C",
+        "station_name": "Cernay"
+    },
+    "203": {
+        "line": "C",
+        "station_name": "Ermont - Eaubonne"
+    },
+    "204": {
+        "line": "C",
+        "station_name": "Saint-Gratien"
+    },
+    "205": {
+        "line": "C",
+        "station_name": "\u00c9pinay-sur-Seine"
+    },
+    "206": {
+        "line": "C",
+        "station_name": "Gennevilliers"
+    },
+    "207": {
+        "line": "C",
+        "station_name": "Les Gr\u00e9sillons"
+    },
+    "208": {
+        "line": "C",
+        "station_name": "Saint-Ouen"
+    },
+    "209": {
+        "line": "C",
+        "station_name": "Porte de Clichy"
+    },
+    "210": {
+        "line": "C",
+        "station_name": "Pereire - Levallois"
+    },
+    "211": {
+        "line": "C",
+        "station_name": "Neuilly - Porte Maillot"
+    },
+    "212": {
+        "line": "C",
+        "station_name": "Avenue Foch"
+    },
+    "213": {
+        "line": "C",
+        "station_name": "Avenue Henri Martin"
+    },
+    "214": {
+        "line": "C",
+        "station_name": "Boulainvilliers"
+    },
+    "215": {
+        "line": "C",
+        "station_name": "Avenue du Pr\u00e9sident Kennedy"
+    },
+    "216": {
+        "line": "C",
+        "station_name": "Ivry-sur-Seine"
+    },
+    "217": {
+        "line": "C",
+        "station_name": "Vitry-sur-Seine"
+    },
+    "218": {
+        "line": "C",
+        "station_name": "Les Saules"
+    },
+    "219": {
+        "line": "C",
+        "station_name": "Orly Ville"
+    },
+    "220": {
+        "line": "C",
+        "station_name": "Thiais - Orly Pont de Rungis"
+    },
+    "221": {
+        "line": "C",
+        "station_name": "Rungis - La Fraternelle"
+    },
+    "222": {
+        "line": "C",
+        "station_name": "Chemin d'Antony"
+    },
+    "223": {
+        "line": "C",
+        "station_name": "Massy - Verri\u00e8res"
+    },
+    "224": {
+        "line": "D",
+        "station_name": "Juvisy"
+    },
+    "225": {
+        "line": "D",
+        "station_name": "Viry-Ch\u00e2tillon"
+    },
+    "226": {
+        "line": "D",
+        "station_name": "Ris-Orangis"
+    },
+    "227": {
+        "line": "D",
+        "station_name": "Grand Bourg"
+    },
+    "228": {
+        "line": "D",
+        "station_name": "\u00c9vry-Courcouronnes"
+    },
+    "229": {
+        "line": "D",
+        "station_name": "Corbeil-Essonnes"
+    },
+    "230": {
+        "line": "D",
+        "station_name": "Moulin-Galant"
+    },
+    "231": {
+        "line": "D",
+        "station_name": "Mennecy"
+    },
+    "232": {
+        "line": "D",
+        "station_name": "Ballancourt"
+    },
+    "233": {
+        "line": "D",
+        "station_name": "La Fert\u00e9-Alais"
+    },
+    "234": {
+        "line": "D",
+        "station_name": "Boutigny"
+    },
+    "235": {
+        "line": "D",
+        "station_name": "Maisse"
+    },
+    "236": {
+        "line": "D",
+        "station_name": "Buno - Gironville"
+    },
+    "237": {
+        "line": "D",
+        "station_name": "Boigneville"
+    },
+    "238": {
+        "line": "D",
+        "station_name": "Malesherbes"
+    },
+    "239": {
+        "line": "D",
+        "station_name": "Gare de Lyon"
+    },
+    "240": {
+        "line": "D",
+        "station_name": "Maisons-Alfort - Alfortville"
+    },
+    "241": {
+        "line": "D",
+        "station_name": "Le Vert de Maisons"
+    },
+    "242": {
+        "line": "D",
+        "station_name": "Cr\u00e9teil-Pompadour"
+    },
+    "243": {
+        "line": "D",
+        "station_name": "Villeneuve-Triage"
+    },
+    "244": {
+        "line": "D",
+        "station_name": "Villeneuve-Saint-Georges"
+    },
+    "245": {
+        "line": "D",
+        "station_name": "Vigneux-sur-Seine"
+    },
+    "246": {
+        "line": "D",
+        "station_name": "Grigny-Centre"
+    },
+    "247": {
+        "line": "D",
+        "station_name": "Orangis - Bois de l'\u00c9pine"
+    },
+    "248": {
+        "line": "D",
+        "station_name": "\u00c9vry-Courcouronnes"
+    },
+    "249": {
+        "line": "D",
+        "station_name": "Le Bras de Fer - \u00c9vry - G\u00e9nopole"
+    },
+    "250": {
+        "line": "D",
+        "station_name": "Goussainville"
+    },
+    "251": {
+        "line": "D",
+        "station_name": "Villiers-le-Bel - Gonesse - Arnouville"
+    },
+    "252": {
+        "line": "D",
+        "station_name": "Garges - Sarcelles"
+    },
+    "253": {
+        "line": "D",
+        "station_name": "Pierrefitte - Stains"
+    },
+    "254": {
+        "line": "D",
+        "station_name": "Saint-Denis"
+    },
+    "255": {
+        "line": "D",
+        "station_name": "Stade de France - Saint-Denis"
+    },
+    "256": {
+        "line": "D",
+        "station_name": "Gare du Nord"
+    },
+    "257": {
+        "line": "D",
+        "station_name": "Ch\u00e2telet - Les Halles"
+    },
+    "258": {
+        "line": "D",
+        "station_name": "Montgeron - Crosne"
+    },
+    "259": {
+        "line": "D",
+        "station_name": "Yerres"
+    },
+    "260": {
+        "line": "D",
+        "station_name": "Brunoy"
+    },
+    "261": {
+        "line": "D",
+        "station_name": "Boussy-Saint-Antoine"
+    },
+    "262": {
+        "line": "D",
+        "station_name": "Combs-la-Ville - Quincy"
+    },
+    "263": {
+        "line": "D",
+        "station_name": "Lieusaint - Moissy"
+    },
+    "264": {
+        "line": "D",
+        "station_name": "Savigny-le-Temple - Nandy"
+    },
+    "265": {
+        "line": "D",
+        "station_name": "Cesson"
+    },
+    "266": {
+        "line": "D",
+        "station_name": "Le M\u00e9e"
+    },
+    "267": {
+        "line": "D",
+        "station_name": "Melun"
+    },
+    "268": {
+        "line": "D",
+        "station_name": "Orry-la-Ville - Coye"
+    },
+    "269": {
+        "line": "D",
+        "station_name": "La Borne Blanche"
+    },
+    "270": {
+        "line": "D",
+        "station_name": "Survilliers - Fosses"
+    },
+    "271": {
+        "line": "D",
+        "station_name": "Louvres"
+    },
+    "272": {
+        "line": "D",
+        "station_name": "Les Noues"
+    },
+    "273": {
+        "line": "D",
+        "station_name": "Creil"
+    },
+    "274": {
+        "line": "D",
+        "station_name": "Chantilly - Gouvieux"
+    },
+    "275": {
+        "line": "D",
+        "station_name": "Gare de Lyon"
+    },
+    "276": {
+        "line": "D",
+        "station_name": "Gare du Nord"
+    },
+    "277": {
+        "line": "D",
+        "station_name": "Essonnes - Robinson"
+    },
+    "278": {
+        "line": "D",
+        "station_name": "Villab\u00e9"
+    },
+    "279": {
+        "line": "D",
+        "station_name": "Le Plessis-Chenet"
+    },
+    "280": {
+        "line": "D",
+        "station_name": "Le Coudray-Montceaux"
+    },
+    "281": {
+        "line": "D",
+        "station_name": "Saint-Fargeau"
+    },
+    "282": {
+        "line": "D",
+        "station_name": "Ponthierry - Pringy"
+    },
+    "283": {
+        "line": "D",
+        "station_name": "Boissise-le-Roi"
+    },
+    "284": {
+        "line": "D",
+        "station_name": "Vosves"
+    },
+    "285": {
+        "line": "E",
+        "station_name": "Haussmann - Saint-Lazare"
+    },
+    "286": {
+        "line": "E",
+        "station_name": "Magenta"
+    },
+    "287": {
+        "line": "E",
+        "station_name": "Rosa-Parks"
+    },
+    "288": {
+        "line": "E",
+        "station_name": "Pantin"
+    },
+    "289": {
+        "line": "E",
+        "station_name": "Noisy-le-Sec"
+    },
+    "290": {
+        "line": "E",
+        "station_name": "Bondy"
+    },
+    "291": {
+        "line": "E",
+        "station_name": "Le Raincy - Villemomble - Montfermeil"
+    },
+    "292": {
+        "line": "E",
+        "station_name": "Gagny"
+    },
+    "293": {
+        "line": "E",
+        "station_name": "Le Ch\u00e9nay Gagny"
+    },
+    "294": {
+        "line": "E",
+        "station_name": "Chelles - Gournay"
+    },
+    "295": {
+        "line": "E",
+        "station_name": "Val de Fontenay"
+    },
+    "296": {
+        "line": "E",
+        "station_name": "Villiers-sur-Marne - Le Plessis-Tr\u00e9vise"
+    },
+    "297": {
+        "line": "E",
+        "station_name": "Les Yvris - Noisy-le-Grand"
+    },
+    "298": {
+        "line": "E",
+        "station_name": "\u00c9merainville - Pontault-Combault"
+    },
+    "299": {
+        "line": "E",
+        "station_name": "Roissy-en-Brie"
+    },
+    "300": {
+        "line": "E",
+        "station_name": "Ozoir-la-Ferri\u00e8re"
+    },
+    "301": {
+        "line": "E",
+        "station_name": "Gretz-Armainvilliers"
+    },
+    "302": {
+        "line": "E",
+        "station_name": "Tournan"
+    },
+    "303": {
+        "line": "E",
+        "station_name": "Rosny-Bois-Perrier"
+    },
+    "304": {
+        "line": "E",
+        "station_name": "Rosny-sous-Bois"
+    },
+    "305": {
+        "line": "E",
+        "station_name": "Nogent - Le Perreux"
+    },
+    "306": {
+        "line": "E",
+        "station_name": "Les Boullereaux-Champigny"
+    },
+    "307": {
+        "line": "E",
+        "station_name": "Nanterre la Folie"
+    },
+    "308": {
+        "line": "E",
+        "station_name": "La D\u00e9fense - Grande Arche"
+    },
+    "309": {
+        "line": "E",
+        "station_name": "Neuilly - Porte Maillot"
+    },
+    "310": {
+        "line": "E",
+        "station_name": "Vaires - Torcy"
+    },
+    "311": {
+        "line": "J",
+        "station_name": "Gare Saint-Lazare"
+    },
+    "312": {
+        "line": "J",
+        "station_name": "Argenteuil"
+    },
+    "313": {
+        "line": "J",
+        "station_name": "Val d'Argenteuil"
+    },
+    "314": {
+        "line": "J",
+        "station_name": "Cormeilles-en-Parisis"
+    },
+    "315": {
+        "line": "J",
+        "station_name": "La Frette - Montigny"
+    },
+    "316": {
+        "line": "J",
+        "station_name": "Herblay"
+    },
+    "317": {
+        "line": "J",
+        "station_name": "Conflans-Sainte-Honorine"
+    },
+    "318": {
+        "line": "J",
+        "station_name": "\u00c9ragny - Neuville"
+    },
+    "319": {
+        "line": "J",
+        "station_name": "Saint-Ouen-l'Aum\u00f4ne-Quartier de l'\u00c9glise"
+    },
+    "320": {
+        "line": "J",
+        "station_name": "Pontoise"
+    },
+    "321": {
+        "line": "J",
+        "station_name": "Asni\u00e8res-sur-Seine"
+    },
+    "322": {
+        "line": "J",
+        "station_name": "Bois-Colombes"
+    },
+    "323": {
+        "line": "J",
+        "station_name": "Colombes"
+    },
+    "324": {
+        "line": "J",
+        "station_name": "Le Stade"
+    },
+    "325": {
+        "line": "J",
+        "station_name": "Sannois"
+    },
+    "326": {
+        "line": "J",
+        "station_name": "Ermont - Eaubonne"
+    },
+    "327": {
+        "line": "J",
+        "station_name": "Mantes-la-Jolie"
+    },
+    "328": {
+        "line": "J",
+        "station_name": "Mantes Station"
+    },
+    "329": {
+        "line": "J",
+        "station_name": "\u00c9p\u00f4ne - M\u00e9zi\u00e8res"
+    },
+    "330": {
+        "line": "J",
+        "station_name": "Aubergenville-Elisabethville"
+    },
+    "331": {
+        "line": "J",
+        "station_name": "Les Mureaux"
+    },
+    "332": {
+        "line": "J",
+        "station_name": "Les Clairi\u00e8res de Verneuil"
+    },
+    "333": {
+        "line": "J",
+        "station_name": "Vernouillet - Verneuil"
+    },
+    "334": {
+        "line": "J",
+        "station_name": "Villennes-sur-Seine"
+    },
+    "335": {
+        "line": "J",
+        "station_name": "Poissy"
+    },
+    "336": {
+        "line": "J",
+        "station_name": "Houilles - Carri\u00e8res-sur-Seine"
+    },
+    "337": {
+        "line": "J",
+        "station_name": "Conflans-Fin-d'Oise"
+    },
+    "338": {
+        "line": "J",
+        "station_name": "Maurecourt"
+    },
+    "339": {
+        "line": "J",
+        "station_name": "Andr\u00e9sy"
+    },
+    "340": {
+        "line": "J",
+        "station_name": "Chanteloup-les-Vignes"
+    },
+    "341": {
+        "line": "J",
+        "station_name": "Triel-sur-Seine"
+    },
+    "342": {
+        "line": "J",
+        "station_name": "Vaux-sur-Seine"
+    },
+    "343": {
+        "line": "J",
+        "station_name": "Thun-le-Paradis"
+    },
+    "344": {
+        "line": "J",
+        "station_name": "Meulan - Hardricourt"
+    },
+    "345": {
+        "line": "J",
+        "station_name": "Juziers"
+    },
+    "346": {
+        "line": "J",
+        "station_name": "Gargenville"
+    },
+    "347": {
+        "line": "J",
+        "station_name": "Issou - Porcheville"
+    },
+    "348": {
+        "line": "J",
+        "station_name": "Limay"
+    },
+    "349": {
+        "line": "J",
+        "station_name": "Sartrouville"
+    },
+    "350": {
+        "line": "J",
+        "station_name": "Maisons-Laffitte"
+    },
+    "351": {
+        "line": "J",
+        "station_name": "Osny"
+    },
+    "352": {
+        "line": "J",
+        "station_name": "Boissy-l'Aillerie"
+    },
+    "353": {
+        "line": "J",
+        "station_name": "Montgeroult - Courcelles"
+    },
+    "354": {
+        "line": "J",
+        "station_name": "Us"
+    },
+    "355": {
+        "line": "J",
+        "station_name": "Santeuil - Le Perchay"
+    },
+    "356": {
+        "line": "J",
+        "station_name": "Chars"
+    },
+    "357": {
+        "line": "J",
+        "station_name": "La Villetertre"
+    },
+    "358": {
+        "line": "J",
+        "station_name": "Liancourt-Saint-Pierre"
+    },
+    "359": {
+        "line": "J",
+        "station_name": "Chaumont-en-Vexin"
+    },
+    "360": {
+        "line": "J",
+        "station_name": "Trie-Ch\u00e2teau"
+    },
+    "361": {
+        "line": "J",
+        "station_name": "Gisors"
+    },
+    "362": {
+        "line": "K",
+        "station_name": "Gare du Nord"
+    },
+    "363": {
+        "line": "K",
+        "station_name": "Aulnay-sous-Bois"
+    },
+    "364": {
+        "line": "K",
+        "station_name": "Mitry - Claye"
+    },
+    "365": {
+        "line": "K",
+        "station_name": "Compans"
+    },
+    "366": {
+        "line": "K",
+        "station_name": "Thieux - Nantouillet"
+    },
+    "367": {
+        "line": "K",
+        "station_name": "Dammartin - Juilly - Saint-Mard"
+    },
+    "368": {
+        "line": "K",
+        "station_name": "Le Plessis-Belleville"
+    },
+    "369": {
+        "line": "K",
+        "station_name": "Nanteuil-le-Haudouin"
+    },
+    "370": {
+        "line": "K",
+        "station_name": "Ormoy-Villers"
+    },
+    "371": {
+        "line": "K",
+        "station_name": "Cr\u00e9py-en-Valois"
+    },
+    "372": {
+        "line": "L",
+        "station_name": "Gare Saint-Lazare"
+    },
+    "373": {
+        "line": "L",
+        "station_name": "B\u00e9con-les-Bruy\u00e8res"
+    },
+    "374": {
+        "line": "L",
+        "station_name": "Courbevoie"
+    },
+    "375": {
+        "line": "L",
+        "station_name": "La D\u00e9fense - Grande Arche"
+    },
+    "376": {
+        "line": "L",
+        "station_name": "Puteaux"
+    },
+    "377": {
+        "line": "L",
+        "station_name": "Le Val d'Or"
+    },
+    "378": {
+        "line": "L",
+        "station_name": "Saint-Cloud"
+    },
+    "379": {
+        "line": "L",
+        "station_name": "Garches - Marnes-la-Coquette"
+    },
+    "380": {
+        "line": "L",
+        "station_name": "Vaucresson"
+    },
+    "381": {
+        "line": "L",
+        "station_name": "La Celle-Saint-Cloud"
+    },
+    "382": {
+        "line": "L",
+        "station_name": "Bougival"
+    },
+    "383": {
+        "line": "L",
+        "station_name": "Louveciennes"
+    },
+    "384": {
+        "line": "L",
+        "station_name": "Marly-le-Roi"
+    },
+    "385": {
+        "line": "L",
+        "station_name": "L'\u00c9tang-la-Ville"
+    },
+    "386": {
+        "line": "L",
+        "station_name": "Saint-Nom-la-Bret\u00e8che - For\u00eat de Marly"
+    },
+    "387": {
+        "line": "L",
+        "station_name": "Pont Cardinet"
+    },
+    "388": {
+        "line": "L",
+        "station_name": "Clichy - Levallois"
+    },
+    "389": {
+        "line": "L",
+        "station_name": "Asni\u00e8res-sur-Seine"
+    },
+    "390": {
+        "line": "L",
+        "station_name": "Les Vall\u00e9es"
+    },
+    "391": {
+        "line": "L",
+        "station_name": "La Garenne-Colombes"
+    },
+    "392": {
+        "line": "L",
+        "station_name": "Nanterre-Universit\u00e9"
+    },
+    "393": {
+        "line": "L",
+        "station_name": "Houilles - Carri\u00e8res-sur-Seine"
+    },
+    "394": {
+        "line": "L",
+        "station_name": "Sartrouville"
+    },
+    "395": {
+        "line": "L",
+        "station_name": "Maisons-Laffitte"
+    },
+    "396": {
+        "line": "L",
+        "station_name": "Suresnes-Mont-Val\u00e9rien"
+    },
+    "397": {
+        "line": "L",
+        "station_name": "S\u00e8vres - Ville-d'Avray"
+    },
+    "398": {
+        "line": "L",
+        "station_name": "Chaville-Rive-Droite"
+    },
+    "399": {
+        "line": "L",
+        "station_name": "Viroflay-Rive-Droite"
+    },
+    "400": {
+        "line": "L",
+        "station_name": "Montreuil"
+    },
+    "401": {
+        "line": "L",
+        "station_name": "Versailles-Rive-Droite"
+    },
+    "402": {
+        "line": "N",
+        "station_name": "Gare Montparnasse"
+    },
+    "403": {
+        "line": "N",
+        "station_name": "Versailles-Chantiers"
+    },
+    "404": {
+        "line": "N",
+        "station_name": "Plaisir - Grignon"
+    },
+    "405": {
+        "line": "N",
+        "station_name": "Villiers - Neauphles - Pontchartrain"
+    },
+    "406": {
+        "line": "N",
+        "station_name": "Montfort-l'Amaury - M\u00e9r\u00e9"
+    },
+    "407": {
+        "line": "N",
+        "station_name": "Garanci\u00e8res - La Queue"
+    },
+    "408": {
+        "line": "N",
+        "station_name": "Orgerus - B\u00e9houst"
+    },
+    "409": {
+        "line": "N",
+        "station_name": "Tacoigni\u00e8res - Richebourg"
+    },
+    "410": {
+        "line": "N",
+        "station_name": "Houdan"
+    },
+    "411": {
+        "line": "N",
+        "station_name": "Marchezais - Brou\u00e9"
+    },
+    "412": {
+        "line": "N",
+        "station_name": "Dreux"
+    },
+    "413": {
+        "line": "N",
+        "station_name": "Plaisir - Les Clayes"
+    },
+    "414": {
+        "line": "N",
+        "station_name": "Villepreux - Les Clayes"
+    },
+    "415": {
+        "line": "N",
+        "station_name": "Fontenay-le-Fleury"
+    },
+    "416": {
+        "line": "N",
+        "station_name": "Saint-Cyr"
+    },
+    "417": {
+        "line": "N",
+        "station_name": "Viroflay-Rive-Gauche"
+    },
+    "418": {
+        "line": "N",
+        "station_name": "Chaville-Rive-Gauche"
+    },
+    "419": {
+        "line": "N",
+        "station_name": "S\u00e8vres-Rive-Gauche"
+    },
+    "420": {
+        "line": "N",
+        "station_name": "Bellevue"
+    },
+    "421": {
+        "line": "N",
+        "station_name": "Meudon"
+    },
+    "422": {
+        "line": "N",
+        "station_name": "Clamart"
+    },
+    "423": {
+        "line": "N",
+        "station_name": "Vanves-Malakoff"
+    },
+    "424": {
+        "line": "N",
+        "station_name": "Saint-Quentin-en-Yvelines"
+    },
+    "425": {
+        "line": "N",
+        "station_name": "Trappes"
+    },
+    "426": {
+        "line": "N",
+        "station_name": "La Verri\u00e8re"
+    },
+    "427": {
+        "line": "N",
+        "station_name": "Coigni\u00e8res"
+    },
+    "428": {
+        "line": "N",
+        "station_name": "Les Essarts-le-Roi"
+    },
+    "429": {
+        "line": "N",
+        "station_name": "Gare le Perray"
+    },
+    "430": {
+        "line": "N",
+        "station_name": "Rambouillet"
+    },
+    "431": {
+        "line": "N",
+        "station_name": "Mantes-la-Jolie"
+    },
+    "432": {
+        "line": "N",
+        "station_name": "\u00c9p\u00f4ne - M\u00e9zi\u00e8res"
+    },
+    "433": {
+        "line": "N",
+        "station_name": "N\u00e9zel - Aulnay"
+    },
+    "434": {
+        "line": "N",
+        "station_name": "Maule"
+    },
+    "435": {
+        "line": "N",
+        "station_name": "Mareil-sur-Mauldre"
+    },
+    "436": {
+        "line": "N",
+        "station_name": "Beynes"
+    },
+    "437": {
+        "line": "P",
+        "station_name": "Esbly"
+    },
+    "438": {
+        "line": "P",
+        "station_name": "Montry - Cond\u00e9"
+    },
+    "439": {
+        "line": "P",
+        "station_name": "Couilly - Saint-Germain - Quincy"
+    },
+    "440": {
+        "line": "P",
+        "station_name": "Villiers - Montbarbin"
+    },
+    "441": {
+        "line": "P",
+        "station_name": "Cr\u00e9cy-la-Chapelle"
+    },
+    "442": {
+        "line": "P",
+        "station_name": "Gare de l'Est"
+    },
+    "443": {
+        "line": "P",
+        "station_name": "Tournan"
+    },
+    "444": {
+        "line": "P",
+        "station_name": "Marles-en-Brie"
+    },
+    "445": {
+        "line": "P",
+        "station_name": "Mortcerf"
+    },
+    "446": {
+        "line": "P",
+        "station_name": "Gu\u00e9rard - La Celle-sur-Morin"
+    },
+    "447": {
+        "line": "P",
+        "station_name": "Faremoutiers - Pommeuse"
+    },
+    "448": {
+        "line": "P",
+        "station_name": "Mouroux"
+    },
+    "449": {
+        "line": "P",
+        "station_name": "Coulommiers"
+    },
+    "450": {
+        "line": "P",
+        "station_name": "Chelles - Gournay"
+    },
+    "451": {
+        "line": "P",
+        "station_name": "Vaires - Torcy"
+    },
+    "452": {
+        "line": "P",
+        "station_name": "Lagny - Thorigny"
+    },
+    "453": {
+        "line": "P",
+        "station_name": "Meaux"
+    },
+    "454": {
+        "line": "P",
+        "station_name": "Provins"
+    },
+    "455": {
+        "line": "P",
+        "station_name": "Champbenoist - Poigny"
+    },
+    "456": {
+        "line": "P",
+        "station_name": "Sainte-Colombe-Septveilles"
+    },
+    "457": {
+        "line": "P",
+        "station_name": "Longueville"
+    },
+    "458": {
+        "line": "P",
+        "station_name": "Nangis"
+    },
+    "459": {
+        "line": "P",
+        "station_name": "Mormant"
+    },
+    "460": {
+        "line": "P",
+        "station_name": "Verneuil-l'\u00c9tang"
+    },
+    "461": {
+        "line": "P",
+        "station_name": "Trilport"
+    },
+    "462": {
+        "line": "P",
+        "station_name": "Changis - Saint-Jean"
+    },
+    "463": {
+        "line": "P",
+        "station_name": "La Fert\u00e9-sous-Jouarre"
+    },
+    "464": {
+        "line": "P",
+        "station_name": "Nanteuil - Sa\u00e2cy"
+    },
+    "465": {
+        "line": "P",
+        "station_name": "Nogent-l'Artaud - Charly"
+    },
+    "466": {
+        "line": "P",
+        "station_name": "Ch\u00e9zy-sur-Marne"
+    },
+    "467": {
+        "line": "P",
+        "station_name": "Ch\u00e2teau-Thierry"
+    },
+    "468": {
+        "line": "P",
+        "station_name": "Isles - Armenti\u00e8res - Congis"
+    },
+    "469": {
+        "line": "P",
+        "station_name": "Lizy-sur-Ourcq"
+    },
+    "470": {
+        "line": "P",
+        "station_name": "Crouy-sur-Ourcq"
+    },
+    "471": {
+        "line": "P",
+        "station_name": "Mareuil-sur-Ourcq"
+    },
+    "472": {
+        "line": "P",
+        "station_name": "La Fert\u00e9-Milon"
+    },
+    "473": {
+        "line": "R",
+        "station_name": "Montereau"
+    },
+    "474": {
+        "line": "R",
+        "station_name": "Saint-Mamm\u00e8s"
+    },
+    "475": {
+        "line": "R",
+        "station_name": "Moret-Veneux-les-Sablons"
+    },
+    "476": {
+        "line": "R",
+        "station_name": "Fontainebleau - Avon"
+    },
+    "477": {
+        "line": "R",
+        "station_name": "Bois-le-Roi"
+    },
+    "478": {
+        "line": "R",
+        "station_name": "Melun"
+    },
+    "479": {
+        "line": "R",
+        "station_name": "Gare de Lyon"
+    },
+    "480": {
+        "line": "R",
+        "station_name": "Livry-sur-Seine"
+    },
+    "481": {
+        "line": "R",
+        "station_name": "Chartrettes"
+    },
+    "482": {
+        "line": "R",
+        "station_name": "Fontaine-le-Port"
+    },
+    "483": {
+        "line": "R",
+        "station_name": "H\u00e9ricy"
+    },
+    "484": {
+        "line": "R",
+        "station_name": "Vulaines-sur-Seine - Samoreau"
+    },
+    "485": {
+        "line": "R",
+        "station_name": "Champagne-sur-Seine"
+    },
+    "486": {
+        "line": "R",
+        "station_name": "Vernou-sur-Seine"
+    },
+    "487": {
+        "line": "R",
+        "station_name": "La Grande-Paroisse"
+    },
+    "488": {
+        "line": "R",
+        "station_name": "Montargis"
+    },
+    "489": {
+        "line": "R",
+        "station_name": "Ferri\u00e8res - Fontenay"
+    },
+    "490": {
+        "line": "R",
+        "station_name": "Dordives"
+    },
+    "491": {
+        "line": "R",
+        "station_name": "Souppes - Ch\u00e2teau-Landon"
+    },
+    "492": {
+        "line": "R",
+        "station_name": "Bagneaux-sur-Loing"
+    },
+    "493": {
+        "line": "R",
+        "station_name": "Nemours - Saint-Pierre"
+    },
+    "494": {
+        "line": "R",
+        "station_name": "Bourron-Marlotte - Grez"
+    },
+    "495": {
+        "line": "R",
+        "station_name": "Montigny-sur-Loing"
+    },
+    "496": {
+        "line": "R",
+        "station_name": "Thomery"
+    },
+    "497": {
+        "line": "U",
+        "station_name": "La Verri\u00e8re"
+    },
+    "498": {
+        "line": "U",
+        "station_name": "Trappes"
+    },
+    "499": {
+        "line": "U",
+        "station_name": "Saint-Quentin-en-Yvelines"
+    },
+    "500": {
+        "line": "U",
+        "station_name": "Saint-Cyr"
+    },
+    "501": {
+        "line": "U",
+        "station_name": "Versailles-Chantiers"
+    },
+    "502": {
+        "line": "U",
+        "station_name": "Chaville-Rive-Droite"
+    },
+    "503": {
+        "line": "U",
+        "station_name": "S\u00e8vres - Ville-d'Avray"
+    },
+    "504": {
+        "line": "U",
+        "station_name": "Saint-Cloud"
+    },
+    "505": {
+        "line": "U",
+        "station_name": "Suresnes-Mont-Val\u00e9rien"
+    },
+    "506": {
+        "line": "U",
+        "station_name": "Puteaux"
+    },
+    "507": {
+        "line": "U",
+        "station_name": "La D\u00e9fense - Grande Arche"
+    },
+    "508": {
+        "line": "J",
+        "station_name": "Rosny-sur-Seine"
+    },
+    "509": {
+        "line": "J",
+        "station_name": "Bonni\u00e8res"
+    },
+    "510": {
+        "line": "J",
+        "station_name": "Vernon - Giverny"
+    },
+    "511": {
+        "line": "L",
+        "station_name": "Ach\u00e8res Ville"
+    },
+    "512": {
+        "line": "L",
+        "station_name": "Conflans-Fin-d'Oise"
+    },
+    "513": {
+        "line": "L",
+        "station_name": "Neuville-Universit\u00e9"
+    },
+    "514": {
+        "line": "L",
+        "station_name": "Cergy-Pr\u00e9fecture"
+    },
+    "515": {
+        "line": "L",
+        "station_name": "Cergy-Saint-Christophe"
+    },
+    "516": {
+        "line": "L",
+        "station_name": "Cergy le Haut"
+    },
+    "517": {
+        "line": "H",
+        "station_name": null
+    }
+}
